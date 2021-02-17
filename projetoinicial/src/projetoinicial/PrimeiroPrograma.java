@@ -2,6 +2,6 @@ package projetoinicial;
 
 public class PrimeiroPrograma {
 public static void main(String[] args) {
-	System.out.println("CARAIO");
+	System.out.println("CARALHO");
 }
 }
